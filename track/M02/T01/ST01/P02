@@ -1,9 +1,5 @@
-
-public class Main {
-
-    public static void main(String[] args) {
-        System.out.println("Hello KodNest");
-    }
+public class Main{
+    public static void main(String[] args){
     //convert preparation weekly plan to java
     //values
     int javaHoursPerDay = 2;
@@ -16,4 +12,5 @@ public class Main {
     System.out.println("Java: " + weeklyJavaHours);
     System.out.println("Aptitude: " + weeklyAptitudeHours);
     System.out.println("Total: " + totalPreparationHours);
+    }
 }
